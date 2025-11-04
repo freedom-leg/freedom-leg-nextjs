@@ -1,0 +1,96 @@
+{
+  "routes": [
+    "/",
+    "/modal",
+    "/inline",
+    "/hybrid",
+    "/conditions",
+    "/conditions/foot-ankle-fractures",
+    "/conditions/achilles-rupture",
+    "/conditions/bunionectomy",
+    "/conditions/foot-ankle-fusion",
+    "/conditions/plantar-wounds",
+    "/conditions/proximal-tibial-fractures",
+    "/conditions/midshaft-tibial-fractures",
+    "/conditions/post-op-neuromas",
+    "/conditions/patellar-fractures",
+    "/conditions/knee-microfracture",
+    "/conditions/osteotomies",
+    "/conditions/below-knee-amputation",
+    "/conditions/stress-fractures",
+    "/conditions/soft-tissue-injuries"
+  ],
+  "injuries": [
+    {
+      "slug": "foot-ankle-fractures",
+      "name": "Fractures of the Foot and Ankle",
+      "commonName": "Foot or Ankle Breaks"
+    },
+    {
+      "slug": "achilles-rupture",
+      "name": "Achilles Tendon Rupture",
+      "commonName": "Achilles Tear or Rupture"
+    },
+    {
+      "slug": "bunionectomy",
+      "name": "Bunionectomy",
+      "commonName": "Bunion Removal Surgery"
+    },
+    {
+      "slug": "foot-ankle-fusion",
+      "name": "Foot or Ankle Fusion",
+      "commonName": "Ankle or Foot Fusion Surgery"
+    },
+    {
+      "slug": "plantar-wounds",
+      "name": "Plantar Wounds",
+      "commonName": "Foot Wounds or Ulcers"
+    },
+    {
+      "slug": "proximal-tibial-fractures",
+      "name": "Proximal Tibial Fractures",
+      "commonName": "Upper Shinbone Breaks"
+    },
+    {
+      "slug": "midshaft-tibial-fractures",
+      "name": "Midshaft Tibial Fractures",
+      "commonName": "Mid-Shinbone Breaks"
+    },
+    {
+      "slug": "post-op-neuromas",
+      "name": "Post-Operative Neuromas",
+      "commonName": "Post-Surgery Nerve Pain"
+    },
+    {
+      "slug": "patellar-fractures",
+      "name": "Patellar Fractures",
+      "commonName": "Kneecap Breaks"
+    },
+    {
+      "slug": "knee-microfracture",
+      "name": "Microfracture of the Knee",
+      "commonName": "Knee Cartilage Microfracture Surgery"
+    },
+    {
+      "slug": "osteotomies",
+      "name": "Osteotomies",
+      "commonName": "Bone Realignment Surgery"
+    },
+    {
+      "slug": "below-knee-amputation",
+      "name": "Below Knee Amputation",
+      "commonName": "Lower Leg Amputation"
+    },
+    {
+      "slug": "stress-fractures",
+      "name": "Stress Fractures",
+      "commonName": "Stress Fractures of Foot, Ankle, or Lower Leg"
+    },
+    {
+      "slug": "soft-tissue-injuries",
+      "name": "Soft Tissue Injuries",
+      "commonName": "Severe Sprains, Strains, or Ligament Tears"
+    }
+  ],
+  "generatedAt": "2025-11-04T02:38:41.196Z"
+}

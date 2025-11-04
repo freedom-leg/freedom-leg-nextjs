@@ -1,0 +1,6 @@
+# Freedom Leg - Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://freedomleg.com/sitemap.xml
